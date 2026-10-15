@@ -1,0 +1,22 @@
+# Public documentation repository: never add local credentials/build materials.
+.env
+.env.*
+secrets/
+**/secrets/
+*.key
+*.pem
+*.p12
+*.pfx
+*.cer
+*.csr
+*.mobileprovision
+*Key.rida
+.DS_Store
+node_modules/
+.cache/
+dist/
+*.dmg
+*.zip
+ExampleData.rida
+ExampleIndex.rida
+ExampleMap.json

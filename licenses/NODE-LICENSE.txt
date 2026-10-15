@@ -1,0 +1,51 @@
+RIDA PROPRIETARY LICENSE
+Version 1.0
+
+Copyright (c) 2026 Syed Ali Hamza Chishty. All rights reserved.
+
+This license applies to the RIDA software library and its source code
+(“RIDA”). It does not apply to data files created with RIDA.
+
+1. Permission to use and modify
+
+You may download, install, run, inspect, and modify RIDA for your own use.
+You may use RIDA, including a modified version, as a component of software
+applications that you create.
+
+2. Applications and commercial use
+
+You may distribute and sell applications that include RIDA, including a
+modified version, as an integrated component. You may not offer RIDA as a
+separately installable or downloadable library, package, or standalone
+software product as part of that distribution.
+
+Every application that includes RIDA must display this notice in an About,
+Licenses, or Third-Party Notices section:
+
+“Uses RIDA (Range Indexed Data Access).
+Copyright (c) 2026 Syed Ali Hamza Chishty.
+Used under the RIDA Proprietary License.”
+
+3. Standalone redistribution and resale
+
+You may not sell, sublicense, publish, or otherwise distribute RIDA or a
+modified version of RIDA as a standalone library, package, or software
+product, except for the Node.js edition in this package. The copyright owner
+specifically permits this Node.js edition to be published and distributed as
+the standalone npm package named “rida-format”, including through the public
+npm registry. Recipients may download, install, run, inspect, and modify this
+Node.js edition for their own use, and may use it as an integrated part of an
+application under Section 2. Recipients may not republish or sell it as a
+standalone package. This exception does not authorize standalone distribution
+of another RIDA edition or under another package name. You may not claim that
+you own or authored the original RIDA code.
+
+4. Ownership
+
+Syed Ali Hamza Chishty retains ownership of RIDA. This license grants only
+the permissions stated above; it does not transfer ownership of RIDA.
+
+5. Warranty
+
+RIDA is provided “AS IS”, without warranties or conditions of any kind,
+express or implied, to the extent permitted by applicable law.

@@ -1,0 +1,48 @@
+{
+  "backpack-2812": {
+    "name": "Travel Backpack",
+    "price": 49,
+    "stock": 120,
+    "specifications": {
+      "capacity": "30 litres",
+      "weight": "900 grams"
+    },
+    "english": {
+      "title": "Ready for everyday travel",
+      "description": "A lightweight backpack with a padded laptop compartment."
+    },
+    "hindi": {
+      "title": "Roz ke safar ke liye",
+      "description": "Halka backpack, laptop ke liye alag padded jagah ke saath.",
+      "care": [
+        "Haath se saaf karein",
+        "Chhaon mein sukhayein"
+      ]
+    },
+    "spanish": {
+      "title": "Listo para viajar",
+      "description": "Una mochila ligera con un compartimento acolchado para el portátil."
+    }
+  },
+  "desk-3812": {
+    "name": "Work Desk",
+    "price": 129,
+    "stock": 24,
+    "specifications": {
+      "width_cm": 120,
+      "material": "wood"
+    },
+    "english": {
+      "title": "Room to work",
+      "description": "A desk for a comfortable home workspace."
+    },
+    "hindi": {
+      "title": "Kaam ke liye jagah",
+      "description": "Ghar ke workspace ke liye desk."
+    },
+    "spanish": {
+      "title": "Espacio para trabajar",
+      "description": "Un escritorio para trabajar cómodamente en casa."
+    }
+  }
+}
